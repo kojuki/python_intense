@@ -1,4 +1,4 @@
-print ('Hello world')
-print ('hi')
-print ('hello no lifer')
-asdfasfowhe23423545
+print ('Hello world'):
+print ('hi'):
+print ('hello no lifer'):
+asdfasfowhe23423545:
